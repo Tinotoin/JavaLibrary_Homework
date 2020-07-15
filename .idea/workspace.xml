@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1de14411-110b-469b-a6df-8670a04a1669" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1egavWfodkl3ChMk31VGl0emMSw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="JUnit.LibraryTest.canCountBooks">
+    <configuration name="LibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkJavaLibrary" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.canCountBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkJavaLibrary" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="METHOD_NAME" value="canCountBooks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LibraryTest.canCountBooks" />
+        <item itemvalue="JUnit.LibraryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de14411-110b-469b-a6df-8670a04a1669" name="Default Changelist" comment="" />
+      <created>1594745921000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594745921000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="997" y="-868" key="#com.intellij.ide.util.MemberChooser" timestamp="1594797219326">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="997" y="-868" key="#com.intellij.ide.util.MemberChooser/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594797219326" />
+    <state width="1522" height="238" key="GridCell.Tab.0.bottom" timestamp="1594797917706">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1522" height="238" key="GridCell.Tab.0.bottom/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594797917706" />
+    <state width="1522" height="238" key="GridCell.Tab.0.center" timestamp="1594797917705">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1522" height="238" key="GridCell.Tab.0.center/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594797917705" />
+    <state width="1522" height="238" key="GridCell.Tab.0.left" timestamp="1594797917705">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1522" height="238" key="GridCell.Tab.0.left/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594797917705" />
+    <state width="1522" height="238" key="GridCell.Tab.0.right" timestamp="1594797917706">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1522" height="238" key="GridCell.Tab.0.right/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594797917706" />
+    <state width="1522" height="295" key="GridCell.Tab.1.bottom" timestamp="1594747088826">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1522" height="295" key="GridCell.Tab.1.bottom/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594747088826" />
+    <state width="1522" height="295" key="GridCell.Tab.1.center" timestamp="1594747088824">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1522" height="295" key="GridCell.Tab.1.center/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594747088824" />
+    <state width="1522" height="295" key="GridCell.Tab.1.left" timestamp="1594747088824">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1522" height="295" key="GridCell.Tab.1.left/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594747088824" />
+    <state width="1522" height="295" key="GridCell.Tab.1.right" timestamp="1594747088825">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1522" height="295" key="GridCell.Tab.1.right/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594747088825" />
+    <state x="526" y="-989" width="782" height="825" key="find.popup" timestamp="1594797396164">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="526" y="-989" width="782" height="825" key="find.popup/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594797396164" />
+  </component>
+</project>
